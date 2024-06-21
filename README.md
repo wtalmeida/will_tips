@@ -1,6 +1,6 @@
 # 🎉 Bem-vindo ao Repositório Will Tips! 🎉
 
-Seja bem-vindo ao repositório mais espetacular de dicas de SQL do universo! 🌌
+Seja bem-vindo ao repositório mais espetacular de dicas de SQL do universo - desde o aprendiz até o nível Jedi! 🌌
 
 ![Will Tips](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
 
