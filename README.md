@@ -20,7 +20,7 @@ Olá, pessoas curiosas da internet! 👋 Este repositório é dedicado às **Wil
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/will_tips.git
+    git clone https://github.com/wtalmeida/will_tips.git
     ```
 
 2. Navegue para o diretório do repositório:
@@ -34,9 +34,9 @@ Olá, pessoas curiosas da internet! 👋 Este repositório é dedicado às **Wil
 
 Tem uma dica de SQL ou uma piada melhor que as minhas? Quer apenas dizer "Oi"? Me encontre nas redes sociais:
 
-- [Twitter](https://twitter.com/seu-usuario)
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- [Instagram](https://instagram.com/seu-usuario)
+- [Twitter](https://twitter.com/wtalmeida)
+- [LinkedIn](https://linkedin.com/in/wtalmeida)
+- [Instagram](https://instagram.com/wtalmeida)
 
 ## Contribuição
 
